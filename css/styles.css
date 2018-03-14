@@ -1,6 +1,6 @@
-.schools {
+.school {
   color: red;
-  font-size: 20px;
+  font-size: 15px;
   font-family: sans-serif;
 
 }
@@ -9,4 +9,17 @@ h1, h3{
   font-family: cursive;
   font-style: italic;
   font-weight:bold;
+}
+.experience {
+  color: blue;
+  font-size: 15px;
+  font-family: sans-serif;
+}
+.skills {
+  color: purple;
+  font-size: 15px;
+  font-family: sans-serif;
+}
+.red {
+  color: red;
 }
